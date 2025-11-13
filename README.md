@@ -1,2 +1,3 @@
 - [main] Init project directory
 - [basics] Add: Basics Branch
+- [website-template] Add: New branch -> Website Template
