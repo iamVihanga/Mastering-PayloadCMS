@@ -1,1 +1,2 @@
-Init project directory
+- [main] Init project directory
+- [basics] Add: Basics Branch
